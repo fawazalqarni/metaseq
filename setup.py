@@ -141,7 +141,7 @@ def do_setup(package_data):
             'dataclasses; python_version<"3.7"',
             "editdistance",
             "fire",
-            "flask==2.1.1",  # for api
+            "flask==2.3.2",  # for api
             "hydra-core>=1.1.0",
             "iopath",
             "ipdb",
